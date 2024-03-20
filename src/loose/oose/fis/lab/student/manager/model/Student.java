@@ -13,7 +13,9 @@ public class Student {
         this.lastName = lastName;
         this.age = age;
         this.meanGrade = meanGrade;
+        System.out.println("Hala Madrid");
     }
+
 
     @Override
     public String toString() {
